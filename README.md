@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Mal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently working with **ASP.NET Core, Microservice Architecture, Docker, Dapper, Entity Framework, MassTransit, RabbitMQ, QuestPDF, Unit Testing, xUnit, PostgreSQL, C#**
+- 🌱 I’m currently working with **ASP.NET Core, Microservice Architecture, Docker, Dapper, Entity Framework, MassTransit, RabbitMQ, QuestPDF, xUnit for unit testing, PostgreSQL, C#**
 
 - 📫 How to reach me **sanket.mal@natureglobal.com**
 
